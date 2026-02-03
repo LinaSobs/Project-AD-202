@@ -1,0 +1,21 @@
+C:\Users\Yandisa\source\repos\ProJECt AD 202\obj\Debug\ProJECt AD 202.csproj.AssemblyReference.cache
+C:\Users\Yandisa\source\repos\ProJECt AD 202\obj\Debug\ProJECt_AD_202.Properties.Resources.resources
+C:\Users\Yandisa\source\repos\ProJECt AD 202\obj\Debug\ProJECt AD 202.csproj.GenerateResource.cache
+C:\Users\Yandisa\source\repos\ProJECt AD 202\obj\Debug\ProJECt AD 202.csproj.CoreCompileInputs.cache
+C:\Users\Yandisa\source\repos\ProJECt AD 202\bin\Debug\ProJECt AD 202.exe.config
+C:\Users\Yandisa\source\repos\ProJECt AD 202\bin\Debug\ProJECt AD 202.exe
+C:\Users\Yandisa\source\repos\ProJECt AD 202\bin\Debug\ProJECt AD 202.pdb
+C:\Users\Yandisa\source\repos\ProJECt AD 202\obj\Debug\ProJECt_AD_202.Form1.resources
+C:\Users\Yandisa\source\repos\ProJECt AD 202\obj\Debug\ProJECt AD 202.exe
+C:\Users\Yandisa\source\repos\ProJECt AD 202\obj\Debug\ProJECt AD 202.pdb
+C:\Users\sobik\OneDrive\Documents\School Work\DEV GROUP ASSIGNMENT\ProJECt AD 202\ProJECt AD 202\bin\Debug\ProJECt AD 202.exe.config
+C:\Users\sobik\OneDrive\Documents\School Work\DEV GROUP ASSIGNMENT\ProJECt AD 202\ProJECt AD 202\bin\Debug\ProJECt AD 202.exe
+C:\Users\sobik\OneDrive\Documents\School Work\DEV GROUP ASSIGNMENT\ProJECt AD 202\ProJECt AD 202\bin\Debug\ProJECt AD 202.pdb
+C:\Users\sobik\OneDrive\Documents\School Work\DEV GROUP ASSIGNMENT\ProJECt AD 202\ProJECt AD 202\obj\Debug\ProJECt AD 202.csproj.AssemblyReference.cache
+C:\Users\sobik\OneDrive\Documents\School Work\DEV GROUP ASSIGNMENT\ProJECt AD 202\ProJECt AD 202\obj\Debug\ProJECt AD 202.exe.config
+C:\Users\sobik\OneDrive\Documents\School Work\DEV GROUP ASSIGNMENT\ProJECt AD 202\ProJECt AD 202\obj\Debug\ProJECt_AD_202.Form1.resources
+C:\Users\sobik\OneDrive\Documents\School Work\DEV GROUP ASSIGNMENT\ProJECt AD 202\ProJECt AD 202\obj\Debug\ProJECt_AD_202.Properties.Resources.resources
+C:\Users\sobik\OneDrive\Documents\School Work\DEV GROUP ASSIGNMENT\ProJECt AD 202\ProJECt AD 202\obj\Debug\ProJECt AD 202.csproj.GenerateResource.cache
+C:\Users\sobik\OneDrive\Documents\School Work\DEV GROUP ASSIGNMENT\ProJECt AD 202\ProJECt AD 202\obj\Debug\ProJECt AD 202.csproj.CoreCompileInputs.cache
+C:\Users\sobik\OneDrive\Documents\School Work\DEV GROUP ASSIGNMENT\ProJECt AD 202\ProJECt AD 202\obj\Debug\ProJECt AD 202.exe
+C:\Users\sobik\OneDrive\Documents\School Work\DEV GROUP ASSIGNMENT\ProJECt AD 202\ProJECt AD 202\obj\Debug\ProJECt AD 202.pdb
