@@ -148,4 +148,5 @@ This project is ideal for:
 ---
 
 Author: Linamandla Sobikela
+
 Project Type: Academic / Learning Project
